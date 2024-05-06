@@ -1,4 +1,9 @@
+![](images/PastedGraphic-1.png)
+
+# Welcome to the WAVE ONT training github repository
+
 # Bioinformatics Applied Course Docker Environment
+
 This Dockerfile sets up an extended Jupyter environment tailored for bioinformatics analysis. It includes various Python and system-level packages necessary for bioinformatics tasks.
 
 ## Description
