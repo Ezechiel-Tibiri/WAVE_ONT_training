@@ -8,11 +8,11 @@ This Dockerfile sets up an extended Jupyter environment tailored for bioinformat
 This Docker environment is designed to support bioinformatics courses and analyses, providing a comprehensive set of tools and libraries commonly used in the field.
 
 ## Contributors
-* <span style="color:green"> </span> Ezechiel B. TIBIRI<a id="name"> </span>,
+* Ezechiel B. TIBIRI,
 email: ezechiel.tibiri@wave-center.org
-* <span style="color:green"> </span> Cyrielle NDOUGONNA<a id="name"> </span>,
+* Cyrielle NDOUGONNA,
 email: cyrielle.ndougonna@wave-center.org
-* <span style="color:green"> </span> Fidèle TIENDREBEOGO<a id="name"> </span>,
+* Fidèle TIENDREBEOGO,
 email: fidele.tiendrebeogo@wave-center.org
 
 ## Docker installation and configuration
