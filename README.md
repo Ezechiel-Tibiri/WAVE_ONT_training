@@ -15,7 +15,7 @@ email: cyrielle.ndougonna@wave-center.org
 * Fidèle TIENDREBEOGO,
 email: fidele.tiendrebeogo@wave-center.org
 
-* This training workshop was supported by the [Cambridge-Africa ALBORADA Research Fund](https://www.cambridge-africa.cam.ac.uk/initiatives/the-alborada-research-fund/funded-projects-2023/) from the University of Cambridge.
+* This training workshop was supported by the [Cambridge-Africa ALBORADA Research Fund](https://www.cambridge-africa.cam.ac.uk/initiatives/the-alborada-research-fund/funded-projects-2023/) from the University of Cambridge and the [Central and West African Virus Epidemiology (WAVE) Regional Center of Excellence for transboundary plant pathogens](https://wave-center.org/).
 ## Docker installation and configuration
 ## On Linux 
 
