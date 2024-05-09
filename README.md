@@ -5,8 +5,6 @@
 # Bioinformatics Applied Course Docker Environment
 
 This Dockerfile sets up an extended Jupyter environment tailored for bioinformatics analysis. It includes various Python and system-level packages necessary for bioinformatics tasks.
-
-## Description
 This Docker environment is designed to support bioinformatics courses and analyses, providing a comprehensive set of tools and libraries commonly used in the field.
 
 ## Contributors
