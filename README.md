@@ -1,4 +1,4 @@
-![](images/PastedGraphic-1.png)
+![](images/logo.png)
 
 # Welcome to the WAVE ONT training github repository
 
